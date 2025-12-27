@@ -1,0 +1,14 @@
+t                                                                              Hibernate 
+                                        it is noting but a opject realtional mapping tool use to maap  java object and datbase table
+
+                                                         orm-> is object relkational mapping where it can mapping the java obvjec to database
+
+                                 what is advantage of hibernate over the jdbc :-
+                                     1)it reduce the boiler plate
+                                     2)it also support query which is object oriented 
+                                    3)it povide the transectional managmant implicitly
+                                    4) it throws the automtilly 
+
+
+
+ 
