@@ -10,5 +10,17 @@ t                                                                              H
                                     4) it throws the automtilly 
 
 
+                                  what are teh intrefacrs use  in hibernate :_
+                            1)session factory :-it is intanace of org.hybernate pakage  is use to retrive the seeeion objec data
+                                             heavy weight and creatd only ones per database
+
+                                     2) sessions :-it is iteface tha use to physiscal connection to the databse 
+                                                    to creat a seesion we need sesion factory 
+                                             base on requriment multipal session will be created 
+   
+                              3)  treansection:- is interface that that ensure the group object prefome completely then it commit all if fail it rollback the preation
+                                            it aslo make a cahanges in database as per the operaion the transection objett is use  
+
+
 
  
