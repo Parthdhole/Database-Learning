@@ -18,8 +18,11 @@ t                                                                              H
                                                     to creat a seesion we need sesion factory 
                                              base on requriment multipal session will be created 
    
-                              3)  treansection:- is interface that that ensure the group object prefome completely then it commit all if fail it rollback the preation
-                                            it aslo make a cahanges in database as per the operaion the transection objett is use  
+                              3)  treansection:- is interface that that ensure the group operations prefome completely then it commit all if fail it rollback the preation
+                                            it aslo make a cahanges in database as per the operaion the transection objett is use  44
+
+
+      
 
 
 
