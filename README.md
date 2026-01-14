@@ -1,10 +1,13 @@
 
- Data base Lasrning  day -1
+ Data base Learinig  day -1
 
 
 
 
- database larning daty -2
+ database learning daty -2
+
+
+ database learning  day -3
 
 
 
