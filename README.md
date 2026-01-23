@@ -26,7 +26,7 @@
 
 Types of commnad language in sql
 1)DDL (Data definal language is deail with the structure of data base)-> 
-2)DML ->
+2)DML (Data Manipluating language)->
 3)DQL ->
 4)DCL ->
 
